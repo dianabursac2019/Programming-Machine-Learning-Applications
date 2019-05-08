@@ -2,7 +2,8 @@
 Using TF-IDF to convert unstructured text into useful features
 
 PREDICTING CUISINE TYPE THROUGH INGREDIENTS
-DSC478 Class Project Code
+
+-DSC478 Class Project Code
 
 This project explores recipe data and through of use machine learning techniques aims to understand various patterns, 
 food ingredients and their prevalence in different cuisines around the world. 
